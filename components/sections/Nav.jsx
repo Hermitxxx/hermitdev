@@ -194,7 +194,7 @@ const Nav = () => {
         "mx-auto w-full border",
         "transition-all duration-500 ease-out",
         isScrolled
-            ? "border-border/40 bg-background/80 rounded-2xl backdrop-blur-sm shadow-[0_18px_50px_rgba(0,0,0,0.12)]"
+            ? "border-border/40 bg-background/80 rounded-2xl backdrop-blur-sm"
             : "border-transparent bg-transparent shadow-none",
     ].join(" ");
 
