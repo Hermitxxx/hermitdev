@@ -8,8 +8,8 @@ export const projects = [
         tags: ["next js", "react", "tailwind", "framer"],
         description:
             "A living directory of production-grade design systems you can drop straight into an AI workflow to ship consistent UI fast.",
-        repoUrl: "https://github.com/yourname/designsmd",
-        liveUrl: "https://designsmd.example.com",
+        repoUrl: "https://github.com/Hermitxxx/designsmd",
+        liveUrl: "https://designsmd.vercel.app",
     },
     {
         id: 2,
